@@ -12,7 +12,7 @@ void matrix(int r , int c,int mat[50][50])
 		scanf("%d",&mat[i][j]);
 	}
 	}
-	
+	printf("the matrix\n ")
 	for(int i=0;i<r;i++)
 	for(int j=0;i<c;j++)
 	{
