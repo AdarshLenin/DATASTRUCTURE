@@ -20,7 +20,7 @@ int main()
 		f[k++].exp=i;
 	}
 	
-	for(i=0;i<=deg1;i++)
+	for(i=0;i<=deg2;i++)
 	{
 		printf("Enter the coefficient of x^%d of second polynomial ",i);
 		scanf("%d",&s[i].coeff);
